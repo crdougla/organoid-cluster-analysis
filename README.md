@@ -6,7 +6,7 @@ Please use Imaris spots function and 'save all' data as a csv file, this should 
 - compares two experimental conditions
 
 Use the following directory format
-- Study directory
+ Study directory
 -   Condition A
 -     'Data Directory 1'
 -     'Data Directory 2'

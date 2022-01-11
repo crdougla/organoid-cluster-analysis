@@ -18,3 +18,6 @@ Use the following directory format
 -     'Data Directory ...'
 Test to commit
 TEST COMMIT
+TEST COMMIT
+Branch Test
+Branch Test
